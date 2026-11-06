@@ -1,0 +1,5 @@
+exam_Program
+exam_Program.exe
+*.o
+.idea/
+venv/
